@@ -1,2 +1,3 @@
 print("Hello")
 print("New line for API2")
+print("New line for API2 from LOCAL")
